@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #0d6efd;
+    padding: 16px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+
+}
